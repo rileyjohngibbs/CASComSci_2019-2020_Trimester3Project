@@ -88,4 +88,6 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+# These .DS_Store files are irrelevant to programming and are just about display in Finder
 *.DS_Store
